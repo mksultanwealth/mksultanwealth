@@ -10,9 +10,13 @@ If you're into creating clean, scalable, and user-focused solutions, let’s con
 
 
 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mksultanwealth&show_icons=true&theme=radical)
+
+Most used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mksultanwealth&layout=compact&theme=radical)
 
-[1:26 PM, 12/22/2025] Chat Gpt: 
 🖥️ Tech Stack
 
 🎨 Frontend  
