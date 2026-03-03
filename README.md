@@ -1,15 +1,15 @@
 
-👋 Hi, I’m Ahmed Mohammed
+# Hi, I’m Ahmed Mohammed
 
 💻 I'm a developer passionate about building real-world solutions with modern technologies.  
 Not limited to one part of the stack — I work across frontend, backend, and everything in between ⚙️, using tools like React ⚛️, Node.js 🟢, Python 🐍, and various databases 🗄️.
 
-🚀 Always learning, always building.  
+# Always learning, always building.  
 I love tackling challenges that stretch my creativity 🎨 and technical skills 🧠.  
 If you're into creating clean, scalable, and user-focused solutions, let’s connect and build something meaningful together 🤝.
 
 
-📊 GitHub Stats  
+# GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mksultanwealth&show_icons=true&theme=radical)
 
@@ -17,7 +17,7 @@ Most used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mksultanwealth&layout=compact&theme=radical)
 
-🖥️ Tech Stack
+# Tech Stack
 
 🎨 Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)  
@@ -28,7 +28,7 @@ Most used Languages
 💬 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
 
-📱 Mobile  
+ # Mobile  
 Soon...
 
 🛠️ Basic Tools  
